@@ -15,5 +15,5 @@ Projeto de automação de testes para interface web utilizando Selenium WebDrive
 - pip install selenium pytest
 - pytest test_login.py
 
-**Para instalar antes de começar:**
+## **Para instalar antes de começar:**
 - pip install selenium pytest
